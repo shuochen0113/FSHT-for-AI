@@ -1,0 +1,9 @@
+Input Resolution: 640x426
+Detection Count: 18
+Inference Time: 0.15s
+FPS: 6.58
+VRAM Usage (MB):
+  - Initial: 0.0
+  - After Load: 65.6
+  - Peak During Inference: 109.2
+  - Current: 78.3

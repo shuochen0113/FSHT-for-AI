@@ -1,0 +1,15 @@
+Total Prompts: 5
+Total Inference Time: 0.75s
+Average Inference Time: 0.15s
+Total Generated Tokens: 51
+Tokens per Second: 67.97
+
+GPU Memory Usage (MB):
+Before Loading: 0.0 (peak)
+After Loading: 1377.6 (peak)
+Prompt 1: 1392.4 (peak)
+Prompt 2: 1394.2 (peak)
+Prompt 3: 1393.5 (peak)
+Prompt 4: 1392.7 (peak)
+Prompt 5: 1397.6 (peak)
+Final: 1397.6 (peak)
